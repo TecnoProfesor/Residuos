@@ -3,7 +3,7 @@
 
 El proyecto consiste en abrir durante unos segundos y cerrar el contenedor correspondiente al plástico, papel y cartón u orgánico en función de la clasificación que hace una IA de un objeto mostrado ante la cámara.
 
-Para ello un conjunto de más de 1000 imágenes imágenes de objetos plásticos, papel, cartón y orgánicos sobre fondo blanco han servido para entrenar un modelo de imágenes con Teachable Machine.
+Para ello un conjunto de más de 1000 imágenes de objetos plásticos, papel, cartón y orgánicos sobre fondo blanco han servido para entrenar un modelo de imágenes con Teachable Machine.
 
 ![Captura](https://github.com/TecnoProfesor/Residuos/assets/65020790/72bbe42e-4c24-4b5b-aabd-d223456ea2f5)
 
