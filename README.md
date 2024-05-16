@@ -18,3 +18,5 @@ La IA reconoce tres clases de objetos con las siguientes etiquetas: 'Envase', 'P
 Con CodeSkool se puede integrar el modelo de Teachable Machine con una placa Micro:bit V2 usando las respectivas extensiones disponibles. La conexión con el Micro:bit V2 se realiza a través de bluetooth.
 
 Usando una placa de extensión de conexiones para Micro:bit, se conectan tres servos de 5V para la apertura y cierre de los contenedores correspondientes según la imagen clasificada por el modelo.
+
+![20240516_114834](https://github.com/TecnoProfesor/Residuos/assets/65020790/49233055-5edd-480a-94a9-8e106adf2baa)
